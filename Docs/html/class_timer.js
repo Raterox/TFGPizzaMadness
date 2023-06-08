@@ -1,0 +1,27 @@
+var class_timer =
+[
+    [ "CountMethod", "class_timer.html#abd20c45d86ba0baab47052a3b3ccbf20", null ],
+    [ "OutputType", "class_timer.html#ab285895cbdcddf27ddc146fbaa2280ef", null ],
+    [ "SeperatorType", "class_timer.html#a1758a83412253abbb5ba8148a93f8613", null ],
+    [ "ConvertToTotalSeconds", "class_timer.html#a24d13c289b0e88aece62a6a491468621", null ],
+    [ "DisplayFormattedTime", "class_timer.html#a76c761189b6c65de1666f349f412ca5f", null ],
+    [ "GetRemainingSeconds", "class_timer.html#a66ffda7d344d6cc37d55ab7e6bebb40f", null ],
+    [ "ReturnTotalSeconds", "class_timer.html#af2d66dcbff2e1ccfdc5c068fe42a8627", null ],
+    [ "StartTimer", "class_timer.html#af61ff6a202a2d5961c8f507a82a6a76f", null ],
+    [ "StopTimer", "class_timer.html#acf34fce4a10e15dda33c3a311932751f", null ],
+    [ "countMethod", "class_timer.html#ac04c685128d95b9186d93b87732783bc", null ],
+    [ "dialSlider", "class_timer.html#aabdfacb8fcf2e6eb87b05c9858cd1bdf", null ],
+    [ "hours", "class_timer.html#a223c7752097f31cd81fc3c483567420f", null ],
+    [ "hoursDisplay", "class_timer.html#a94e4b1d5a1b2b1a39e6e4ae9a684f3fb", null ],
+    [ "minutes", "class_timer.html#a9c4b1f39d2d3b26be3a453d3e2ca9db0", null ],
+    [ "minutesDisplay", "class_timer.html#aad37c85a9627989ccacdcec899bf0e56", null ],
+    [ "onTimerEnd", "class_timer.html#aed676f5498561b86db70f1fdfce1a1e1", null ],
+    [ "outputType", "class_timer.html#aafe1f1b59cd12c4ba947b78b5e67f6e5", null ],
+    [ "seconds", "class_timer.html#a89fc499574a0c9d798338b6165bbb8bd", null ],
+    [ "secondsDisplay", "class_timer.html#a6e840dec25dd34520acab75c98ffeb35", null ],
+    [ "standardSlider", "class_timer.html#a0db5b59f0e17b3c70e75257b871605d6", null ],
+    [ "standardText", "class_timer.html#ab6e615bbdc1b0f7f2aaac2351e24521a", null ],
+    [ "startAtRuntime", "class_timer.html#ae51d4523838c6df5df617ac6e7a732e5", null ],
+    [ "textMeshProText", "class_timer.html#acc2bfb5f27fcb48943c3c1bbb85ed32d", null ],
+    [ "timeRemaining", "class_timer.html#a47fc6c3196216568e1ab5a98436b4eb2", null ]
+];
